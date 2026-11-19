@@ -1,0 +1,13 @@
+.env
+*.db
+*.sqlite
+
+photos/
+reports/
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+.DS_Store
